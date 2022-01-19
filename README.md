@@ -212,7 +212,7 @@ composer require
 
 - 🌌 [Profile](https://github.com/modarAlkasem/ "Modar Alkasem")
 
-- 🏮 [Email](mailto:modarAlkasem@gmail.com?subject=Hi%20from%20the-general-accountant "modarAlkasem@gmail.com")
+- 🏮 [Email](mailto:modarAlkasem@gmail.com?subject=Hi%20from%20the-general-accountant "modaralkasem@gmail.com")
 
 
 

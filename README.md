@@ -159,23 +159,28 @@
 
 ## 🛠️ Installation Steps
 
-1. Go to the folder in web server folder where HTTP requests goes such as 'www' in wampserver
+1. Go to the folder in web server folder where HTTP requests goes in such as 'www' in wampserver
 
-1. Clone the repository
+2. Clone the repository
 
 ```Bash
 git clone https://github.com/modarAlkasem/cms.git
 ```
+3. Go to project folder and run
+ ```Bash
+composer require
+```
+4. Create '.env' file and define the same environment variables in'.env.example' into it then put your data
 
-2. Create new database named as 'cms'
+5. Create new database named as 'cms'
 
-3. Import 'cms.sql' file in 'database' folder into created database
+6. Import 'cms.sql' file in 'database' folder into created database
 
-4. Update the MySQL credentials in 'cms/includes/db.php' if you use different credentials
+7. Update the MySQL credentials in 'cms/includes/db.php' if you use different credentials
 
-5. Open the browser on the project folder such as 'http://localhost/cms/'
+8. Open the browser on the project folder such as 'http://localhost/cms/'
 
-6. Note : if you want initially sign in as admin read 'admin-credentials.txt' in project folder
+9. Note : if you want initially sign in as admin read 'admin-credentials.txt' in project folder
 
 **🎇 You are Ready to Go!**
 
